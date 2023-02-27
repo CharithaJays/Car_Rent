@@ -14,7 +14,7 @@ int main()
     int days = 0, excess = 0, damage = 0, advance = 0, total = 0;
 
 
-    printf("Welcome to the system\n");
+    printf("Welcome\n");
     printf("-----------------------------------------------\n\n");
     printf("Methods : \n");
     printf("\t 1 \t Vehicle borrowing\n");
